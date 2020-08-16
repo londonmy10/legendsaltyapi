@@ -5,7 +5,7 @@ const shards = new ShardingManager ('./bot.js', {//BURASI ANA DOSYANIZ DEGİİŞ
 
 token : ayarlar.token,
 
-totalShards : 2 //fireofeternity <3             
+totalShards : 1 //fireofeternity <3             
 
 });
 
